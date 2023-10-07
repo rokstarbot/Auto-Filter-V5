@@ -49,13 +49,13 @@
 
 - [x] /delg - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@Netflixvilla_india](t.me/Netflixvilla_india)
 
 ## Credits 
 
 * [![Kd Bots](https://img.shields.io/static/v1?label=KDBotz&message=Telegram&color=critical)](https://t.me/KD_Botz)
-* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Cynitesupport)
+* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Netflixvilla_india)
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyniteofficial/Auto-Filter-V5)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rokstarbot/Auto-Filter-V5)
