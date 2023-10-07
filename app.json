@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Cyniteofficial/Auto-Filter-V5",
-    "repository": "https://github.com/Cyniteofficial/Auto-Filter-V5",
+    "website": "https://github.com/rokstarbot/Auto-Filter-V5",
+    "repository": "https://github.com/rokstarbot/Auto-Filter-V5",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
